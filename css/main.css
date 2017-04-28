@@ -1,0 +1,106 @@
+
+nav{
+  color: white;
+  height: 75px;
+  background-color: orange;
+}
+.logo img{
+  position: absolute;
+  display: inline-block;
+  height: 30px;
+  margin-top: 22px;
+  margin-left: -31px;
+}
+.logo{
+  margin-left: 85px;
+  display: inline-block;
+}
+.logo h1{
+  font-weight: normal;
+  display: inline-block;
+}
+.logo span{
+  font-weight: bold;
+}
+.logo sup{
+  font-size: 10px;
+}
+nav ul{
+
+  margin-right: 25px;
+  margin-top: 28px;
+  float: right;
+  display: inline-block;
+}
+nav li{
+  font-size: 12px;
+  margin-right: 29px;
+  display: inline-block;
+}
+.searchbar input{
+  padding-left: 15px;
+  color: grey;
+  border: none;
+  margin-left: 950px;
+  width: 200px;
+      height: 40px;
+      background-color: #e2e2e2;
+  }
+.mainpage img{
+  margin-left: 41px;
+    margin-top: 45px;
+    height: 400px;
+}
+.description{
+
+  margin-right: 90px;
+  color: orange;
+  margin-top: 110px;
+  font-size: 40px;
+  float: right;
+}
+.description sup{
+  font-size: 12px;
+}
+.description span{
+  font-weight: bold;
+}
+.blue{
+  color: turquoise;
+}
+.orangebutton button{
+  height: 55px;
+position: absolute;
+text-decoration: none;
+border: none;
+color: white;
+background-color: orange;
+width: 250px;
+margin-left: 655px;
+margin-top: -130px;;
+}
+.bluebutton button{
+  height: 55px;
+position: absolute;
+text-decoration: none;
+border: none;
+color: white;
+background-color: turquoise;
+width: 250px;
+margin-top: -130px;
+margin-left: 970px;
+}
+footer{
+  background-color:  turquoise;
+  color: turquoise;
+  height: 60px;
+
+}
+
+}
+@media (max-width:1270) {
+img{
+  height: 350px;
+}
+  }
+}
